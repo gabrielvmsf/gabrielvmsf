@@ -1,6 +1,6 @@
 ### 👋 Olá! eu sou o Gabriel Melo 
 - 👀 Interessado em aprimorar habilidades de programação
-- 🌱 Estudante do 4º periodo de Ciência da Computação
+- 🌱 Estudante do 5º periodo de Ciência da Computação
 - 👨‍🎓 Instituto Federal Goiano - Campus Morrinhos
 - 🤗 Pronomes: ele/dele
 - 📫 Contato para email: gabriel.melo2@estudante.ifgoiano.edu.br
