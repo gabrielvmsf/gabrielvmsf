@@ -5,7 +5,7 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia e inovaç
 ## 📚 Formação e Experiência
 
 - 🌱 Estudante do 5º período de Ciência da Computação no Instituto Federal Goiano - Campus Morrinhos.
-- 👨‍🎓 Curso Técnico em Manutenção e Suporte em Informática em uma Instituição Federal.
+- 👨‍🎓 Curso Técnico em Manutenção e Suporte em Informática no Instituto Federal Goiano - Campus Avançado Hidrolândia.
 - 💼 Experiência em desenvolvimento de software nas áreas de indústrias elétricas.
 
 ### Projetos Destacados
