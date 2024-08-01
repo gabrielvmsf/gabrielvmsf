@@ -10,11 +10,13 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia e inovaç
 
 ### Projetos Destacados
 
-- **Convenção de Modelagem de Componentes Tridimensionais associados à Indústria de Energia Elétrica**: Projeto realizado no Núcleo de Pesquisa em Processamento Gráfico e Interação Natural (NuPPGIN).
+Projetos realizados para o Núcleo de Pesquisa em Processamento Gráfico e Interação Natural (NuPPGIN).
 
+- **Convenção de Modelagem de Componentes Tridimensionais associados à Indústria de Energia Elétrica**: Elaboração de padrões e convenções de modelagem tridimensional para otimizar performace e construção de ambientes.
+  
 - **Desenvolvimento de ambientes de Realidade Virtual para treinamento de operadores de subestações da Indústria de Energia Elétrica**: Projeto voltado para treinamento de operadores de subestações.
 
-- **Realidade Virtual para treinamento no processo de manutenção de linha viva**: Projeto relacionado à manutenção de linhas elétricas em ambientes de realidade virtual.
+- **Realidade Virtual para treinamento no processo de manutenção de linha viva**: Projeto relacionado para auxiliar na capacitação de manutenção de linhas elétricas em liha viva, em ambientes de realidade virtual.
 
 - **Uma Estratégia para Personalização de Conteúdo de Sistemas de Realidade Virtual Voltados para a Indústria de Energia Elétrica**: Projeto de personalização de conteúdo em sistemas de realidade virtual.
 
