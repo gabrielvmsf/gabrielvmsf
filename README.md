@@ -20,6 +20,8 @@ Projetos realizados para o Núcleo de Pesquisa em Processamento Gráfico e Inter
 
 - **Uma Estratégia para Personalização de Conteúdo de Sistemas de Realidade Virtual Voltados para a Indústria de Energia Elétrica**: Projeto de personalização de conteúdo em sistemas de realidade virtual.
 
+- **Classificação de Frutos Usando Visão Computacional para Melhoramento Genético**: Desenvolvimento de uma ferramenta baseada em visão computacional e fotogrametria, utilizando tecnologias como OpenCV para mensuração de volume e análise de características físicas de frutos. O objetivo é identificar os melhores exemplares para serem usados no processo de melhoramento genético, aprimorando a agricultura de forma sustentável e eficiente.
+
 ## 🚀 Habilidades
 
 - Linguagens: Java, C#, Python.
