@@ -18,7 +18,7 @@ Projetos realizados para o Núcleo de Pesquisa em Processamento Gráfico e Inter
 
 - **Realidade Virtual para treinamento no processo de manutenção de linha viva**: Projeto relacionado para auxiliar na capacitação de manutenção de linhas elétricas em liha viva, em ambientes de realidade virtual.
 
-- **Uma Estratégia para Personalização de Conteúdo de Sistemas de Realidade Virtual Voltados para a Indústria de Energia Elétrica**: Projeto de personalização de conteúdo em sistemas de realidade virtual.
+- **Uma Estratégia para Personalização de Conteúdo de Sistemas de Realidade Virtual Voltados para a Indústria de Energia Elétrica**: Projeto de personalização de conteúdo em sistemas de realidade virtual, partindo do desenvolvimento de uma recurso integrador em formato de aplicação web que simula o controle de subestações elétricas em tempo real por meio de uma API em .NET/C#.
 
 - **Classificação de Frutos Usando Visão Computacional para Melhoramento Genético**: Desenvolvimento de uma ferramenta baseada em visão computacional e fotogrametria, utilizando tecnologias como OpenCV para mensuração de volume e análise de características físicas de frutos. O objetivo é identificar os melhores exemplares para serem usados no processo de melhoramento genético, aprimorando a agricultura de forma sustentável e eficiente.
 
